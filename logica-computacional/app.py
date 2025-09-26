@@ -24,5 +24,6 @@ def home():
 def sobre():
     return "A hempora foi criada para desmistificar o uso medicinal do cânhamo, combatendo o preconceito e desinformação sobre a Cannabis sativa. " \
 
-    "A plataforma oferece suporte e informações científicas sobre o cânhamo medicinal"
+    "A plataforma oferece suporte completo com informações científicas sobre o cânhamo medicinal"
+
 
