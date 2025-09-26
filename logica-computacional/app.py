@@ -18,9 +18,10 @@ def salvar_problema(nome, problema, doenca, etnia):
 
 @app.route("/")
 def home():
-    return "este site foi desenvolvido para a disseminar de informações sobre o canhâmo meicinal"
+    return "este site foi desenvolvido para a disseminar de informações sobre o canhâmo medicinal"
 
 @app.route("/sobre")
 def sobre():
     return "A hempora foi criada para desmistificar o uso medicinal do cânhamo, combatendo o preconceito e desinformação sobre a Cannabis sativa. " \
-    "A plataforma oferece informações científicas sobre "
+
+    "A plataforma oferece informações científicas sobre o cânhamo medicinal"
